@@ -38,6 +38,8 @@
             android:layout_marginTop="170dp"
             android:textColor="@color/white"
             android:textAlignment="center"
+            android:shadowColor="@color/black"
+            android:shadowRadius="30"
             android:textSize="18sp"
             android:text="@string/estado_broadcast_cambiante" />
     </LinearLayout>
