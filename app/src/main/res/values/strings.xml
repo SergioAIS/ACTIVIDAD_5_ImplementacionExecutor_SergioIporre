@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="estado_broadcast_cambiante">Broadcast Dinámico: Modo avión</string>
+</resources>
